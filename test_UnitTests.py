@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 26 00:00:36 2024
+
+@author: shaoziyi
+"""
+
 import WhoAmI_File
 def test_WhoAmI():
     assert WhoAmI_File.WhoAmI() != 'djr2132'
